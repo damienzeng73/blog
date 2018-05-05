@@ -1,5 +1,5 @@
 # Blog
-My personal blog
+My personal blog.
 
 Visit [here](https://damnee562.github.io/blog).
 
